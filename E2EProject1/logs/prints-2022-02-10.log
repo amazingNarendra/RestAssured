@@ -1,0 +1,8 @@
+19:16:04.744 [main] INFO  Academy.validateTitle - success
+19:16:50.930 [main] INFO  Academy.validateTitle - initilizing
+19:16:58.809 [main] INFO  Academy.validateTitle - navigating to url
+19:16:59.489 [main] INFO  Academy.validateTitle - success
+19:16:59.848 [main] INFO  Academy.validateTitle - success
+09:32:28.784 [TestNG-tests-2] INFO  Academy.validateTitle - initilizing
+09:32:40.821 [TestNG-tests-2] INFO  Academy.validateTitle - navigating to url
+09:32:45.143 [TestNG-tests-2] INFO  Academy.validateTitle - success
